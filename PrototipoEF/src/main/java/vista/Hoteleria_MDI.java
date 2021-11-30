@@ -16,7 +16,7 @@ import seguridad.vista.Login_LD;
 
 /**
  *
- * @author Herbert Leonel Dominguez Chavez
+ * @author luis lee
  */
 public class Hoteleria_MDI extends javax.swing.JFrame {
 

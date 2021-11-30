@@ -15,7 +15,7 @@ import seguridad.datos.UsuarioDAO;
 import vista.Hoteleria_MDI;
 /**
  *
- * @author HLeonelDC
+ * @author luis lee
  */
 public class Login_LD extends javax.swing.JFrame {
     int xMouse, yMouse;
