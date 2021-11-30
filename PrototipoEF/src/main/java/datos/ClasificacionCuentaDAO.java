@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Diego Vásquez
+ * @author luis lee
  */
 public class ClasificacionCuentaDAO extends Conexion {
 
